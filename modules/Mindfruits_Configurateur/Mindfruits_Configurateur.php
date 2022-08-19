@@ -55,6 +55,10 @@ class Mindfruits_Configurateur extends Module
         $this->ps_versions_compliancy = array('min' => '1.7', 'max' => _PS_VERSION_);
     }
 
+    private function test() {
+        var_dump("test");
+    }
+
     /**
      * Don't forget to create update methods if needed:
      * http://doc.prestashop.com/display/PS16/Enabling+the+Auto-Update
