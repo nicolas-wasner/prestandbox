@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '127.0.0.1',
+    'database_port' => '8889',
+    'database_name' => 'prestandbox',
+    'database_user' => 'prestandbox',
+    'database_password' => '',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'AWrQS7Y8rpLCLrvSjgs9kkabMWoddJmszqzRLHbTOJpoSga3E99vb9fHW9LZMSQM',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2022-08-18',
+    'locale' => 'fr-FR',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'R61QNesXPNoWgZJ71IMfjKe0vddP5MBsifDgrvWNEjCcQKWVA2NvMaSEKiXKPYRT',
+    'cookie_iv' => 'Kk3I22GGcbSWYh6wUBzdkAOJvc2YgWD9',
+    'new_cookie_key' => 'def000004d30428f798c26bf23b054481f3b2149a8700ea99a5a746be637b9f98897f5df213f01fa85cf8fb2dfa0d8882958305d5f184a32a2949758505041ed96d390d8',
+  ),
+);
