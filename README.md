@@ -1,2 +1,2 @@
 # Prestandbox
- Test de module Prestashop
+ Instance de prestashop clean pour réalisation d'essai de module
